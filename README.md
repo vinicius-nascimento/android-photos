@@ -4,10 +4,10 @@ App Android simples, envolvendo upload, carregamento e exibição de imagens, ut
 
 ## Build e Execução
 
-1 - Clone o repositório.
-2 - Abra o projeto no Android Studio.
-3 - Conecte o projeto ao Firebase.
-4 - Execute o projeto.
+1. Clone o repositório.
+2. Abra o projeto no Android Studio.
+3. Conecte o projeto ao Firebase.
+4. Execute o projeto.
 
 ## Autor
 
